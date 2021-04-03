@@ -1,2 +1,1 @@
-# Tugas3-Appmob
-Dasar Android Intent
+# Tugas3-AppMob
